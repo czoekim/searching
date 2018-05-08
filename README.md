@@ -1,6 +1,15 @@
-# Project 2: Search
+#Searching
 
-Edit this file to include your name, your partner's name (if you worked with one), and a statement of the Honor Code.
+This project involves using depth-first and breadth-first searching algorithms.
 
-On my honor I have not given, nor received, nor witnessed any unauthorized assistance on this work.
-Clara Zoe Kim
+## Anagrams.py
+The program takes a .txt file with a list of words and finds all anagrams present.
+
+## Word_Ladders.py
+This program generates a list of words that will connect the start word with the end word. Each word in the list differs by one letter from its neighbors.  
+Example:
+```
+['planes', 'flanes', 'flakes', 'slakes', 'snakes']
+````
+## Boggle.py
+This program identifies all possible words in a 4x4 grid using a stack algorithm with a dictionary.
