@@ -1,4 +1,4 @@
-#Searching
+# Searching
 
 This project involves using depth-first and breadth-first searching algorithms.
 
